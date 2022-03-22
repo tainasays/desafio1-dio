@@ -1,3 +1,3 @@
 # desafio1-dio
-### Ola ✨
+### Olá ✨
 Desafio 1: Github
